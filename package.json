@@ -1,0 +1,19 @@
+{
+  "name": "browser-compress-image",
+  "version": "1.0.0",
+  "description": "Compress image in javascript using JPEG compression on the browser side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenzanboo/browser-compress-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenzanboo/browser-compress-image/issues"
+  },
+  "homepage": "https://github.com/kenzanboo/browser-compress-image#readme"
+}
