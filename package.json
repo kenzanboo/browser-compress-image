@@ -1,8 +1,8 @@
 {
   "name": "browser-compress-image",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Compress image in javascript using JPEG compression on the browser side",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "node_modules/babel-cli/bin/babel.js src --out-dir lib"
