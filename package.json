@@ -1,6 +1,6 @@
 {
   "name": "browser-compress-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compress image in javascript using JPEG compression on the browser side",
   "main": "index.js",
   "scripts": {
